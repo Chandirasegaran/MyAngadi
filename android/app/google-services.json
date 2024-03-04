@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747104098843",
+    "project_id": "my-angadi",
+    "storage_bucket": "my-angadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747104098843:android:3c8dd445dfdc515ebaf6be",
+        "android_client_info": {
+          "package_name": "com.segar.myangadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyc4boxwQ0kJjE4Id3g55e8uYzjr8pcg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
