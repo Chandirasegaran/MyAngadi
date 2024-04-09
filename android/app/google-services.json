@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562330846543",
+    "project_id": "myangadiapp",
+    "storage_bucket": "myangadiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562330846543:android:80c95f902d86a7f68fb13a",
+        "android_client_info": {
+          "package_name": "com.segar.myangadiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeW3NSemyzZ7pyDnkBcDEEQ4bLfjuDNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
